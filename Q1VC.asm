@@ -133,6 +133,7 @@ ZERA
     CLRF    DIGB
     CLRF    DIGC
     CLRF    DIGD
+    RETURN
 
     
 DIG	                    ;T=3
